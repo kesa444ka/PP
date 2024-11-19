@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Companies>
+  <Company>
+    <name>Tech Solutions</name>
+    <shortTitle>TS</shortTitle>
+    <dateFoundation>12.05.2010</dateFoundation>
+    <countEmployees>150</countEmployees>
+    <branch>IT</branch>
+    <activity>Software Development</activity>
+  </Company>
+  <Company>
+    <name>Green Energy</name>
+    <shortTitle>GE</shortTitle>
+    <dateFoundation>20.08.2015</dateFoundation>
+    <countEmployees>80</countEmployees>
+    <branch>Energy</branch>
+    <activity>Renewable Energy Production</activity>
+  </Company>
+  <Company>
+    <name>Eco Construction</name>
+    <shortTitle>EC</shortTitle>
+    <dateFoundation>11.11.2012</dateFoundation>
+    <countEmployees>100</countEmployees>
+    <branch>Construction</branch>
+    <activity>Sustainable Building</activity>
+  </Company>
+  <Company>
+    <name>Cloud Solutions</name>
+    <shortTitle>CS</shortTitle>
+    <dateFoundation>12.02.2019</dateFoundation>
+    <countEmployees>100</countEmployees>
+    <branch>IT</branch>
+    <activity>Software Development</activity>
+  </Company>
+  <Company>
+    <name>Data Analytics Corp</name>
+    <shortTitle>DAC</shortTitle>
+    <dateFoundation>10.09.2016</dateFoundation>
+    <countEmployees>90</countEmployees>
+    <branch>IT</branch>
+    <activity>Data Analysis</activity>
+  </Company>
+  <Company>
+    <name>Retail Innovations</name>
+    <shortTitle>RI</shortTitle>
+    <dateFoundation>18.02.2021</dateFoundation>
+    <countEmployees>120</countEmployees>
+    <branch>Retail</branch>
+    <activity>E-commerce Solutions</activity>
+  </Company>
+</Companies>

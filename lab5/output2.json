@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tech Solutions",
+    "shortTitle": "TS",
+    "dateFoundation": "12.05.2010",
+    "countEmployees": "150",
+    "branch": "IT",
+    "activity": "Software Development"
+  },
+  {
+    "name": "Green Energy",
+    "shortTitle": "GE",
+    "dateFoundation": "20.08.2015",
+    "countEmployees": "80",
+    "branch": "Energy",
+    "activity": "Renewable Energy Production"
+  },
+  {
+    "name": "Eco Construction",
+    "shortTitle": "EC",
+    "dateFoundation": "11.11.2012",
+    "countEmployees": "100",
+    "branch": "Construction",
+    "activity": "Sustainable Building"
+  },
+  {
+    "name": "Cloud Solutions",
+    "shortTitle": "CS",
+    "dateFoundation": "12.02.2019",
+    "countEmployees": "100",
+    "branch": "IT",
+    "activity": "Software Development"
+  },
+  {
+    "name": "Data Analytics Corp",
+    "shortTitle": "DAC",
+    "dateFoundation": "10.09.2016",
+    "countEmployees": "90",
+    "branch": "IT",
+    "activity": "Data Analysis"
+  },
+  {
+    "name": "Retail Innovations",
+    "shortTitle": "RI",
+    "dateFoundation": "18.02.2021",
+    "countEmployees": "120",
+    "branch": "Retail",
+    "activity": "E-commerce Solutions"
+  }
+]
